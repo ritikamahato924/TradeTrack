@@ -1,6 +1,6 @@
 # 📈 TradeTrack (Zerodha Clone)
 
-TradeTrack is a full-stack stock trading platform inspired by **Zerodha trading platform clone built** to simulate real-world stock trading UI and workflows. This project demonstrates frontend design, backend integration, and dashboard functionality.
+TradeTrack is a full-stack stock trading platform inspired by Zerodha. It replicates real-world trading workflows including dashboard analytics, portfolio tracking, and order management.
 
 ---
 
