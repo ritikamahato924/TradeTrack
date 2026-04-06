@@ -1,0 +1,48 @@
+
+#support-hero{
+    background-color: rgb(56, 126, 209);
+    color: white;
+}
+
+#support-title{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 97px;
+}
+
+
+
+#support-track{
+    color:white;
+    text-decoration: none;
+    margin:0 100px;
+}
+
+#support-input{
+    width:450px;
+    height:60px;
+    border-radius: 6px;
+    border: none;
+}
+
+#support-heading{
+    font-weight: 400;
+    
+}
+
+#support-featured{
+    font-weight: 400;
+    
+}
+
+#support-link{
+    display: inline;
+    padding: 0px 7px;
+    
+}
+
+#home-image{
+    width:800px;
+    height:350px;
+    margin-left:100px;
+}
